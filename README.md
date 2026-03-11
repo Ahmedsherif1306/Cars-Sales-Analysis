@@ -99,7 +99,7 @@ Steps:
 ---
 
 ##  Dashboard Preview
-
+![Dashboard Demo](Dashboard/Cars.gif)
 
 
 ```
