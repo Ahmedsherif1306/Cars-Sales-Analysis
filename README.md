@@ -102,8 +102,7 @@ Steps:
 ![Dashboard Demo](Dashboard/Cars.gif)
 
 
-```
-images/dashboard_preview.png
+
 ```
 
 ---
