@@ -86,6 +86,13 @@ Steps:
 
 ---
 
+
+
+---
+
+##  Dashboard Preview
+![Dashboard Demo](Dashboard/Cars.gif)
+
 ## Dashboard Insights
 
 * Orders increased from **1,555 in 2023** to **5,019 in 2024**, then decreased to **3,426 in 2025**.
@@ -95,13 +102,6 @@ Steps:
 * Some cities like **South Noalhtown**, **Balshire**, and **East Christinaven** have the highest number of customers.
 * **Sky Blue** is the most popular car color, followed by **Hot Pink** and **Maroon**.
 * **Mazda** generated the highest total sales value among the companies.
-
----
-
-##  Dashboard Preview
-![Dashboard Demo](Dashboard/Cars.gif)
-
-
 
 ```
 
